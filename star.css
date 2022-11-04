@@ -1,0 +1,40 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 18px;
+        padding: 5%;
+}
+
+
+#catalog{
+    display: flex;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    padding-right: 70px;
+    padding-bottom: 10px;
+    font-weight: 700;
+}
+
+footer{
+    background-color: rgba(31, 24, 24, 0.404);
+    text-align: center;
+}
+
+a{
+    color: blue;
+    text-decoration: none;
+}
+
+#goals{
+    display: flex;
+    padding-right: 20px;
+}
+
+#write{
+    display: flex;
+    text-align: center;
+}
